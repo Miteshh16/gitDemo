@@ -1,2 +1,3 @@
 this is my file 2 
 Adding content but not stashing changinf in main
+Adding new content in main
